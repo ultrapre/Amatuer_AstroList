@@ -3,15 +3,17 @@ Amatuer Astronomy DSO List/Catalogue
 
 
 
+data1：
+
 | ITEM         | Num   | Link                                                         |
 | ------------ | ----- | ------------------------------------------------------------ |
 | NGCIC        | 13226 | http://www.klima-luft.de/steinicke/ngcic/ngcic_e.htm         |
 | Messier      | 110   | http://www.klima-luft.de/steinicke/ngcic/Expl_Hist_M.htm     |
-| Caldwell     | 109   | http://www.messier.seds.org/xtra/similar/caldwell.html       |
+| Caldwell     | 109   | http://www.messier.seds.org/xtra/similar/caldwell.html + Fixed@C100=Cr249 |
 | Lacaille     | 37    | http://www.messier.seds.org/xtra/similar/lacaille.txt        |
 | Dunlop       | 351   | http://www.messier.seds.org/xtra/similar/dunlop.html         |
-| H400-I       | 400   | SEDS                                                         |
-| H401-II      | 400   | SEDS                                                         |
+| H400-I       | 400   | http://www.messier.seds.org/xtra/similar/her400l1a.txt       |
+| H400-II      | 400   | http://www.messier.seds.org/xtra/similar/her400l2a.txt       |
 | Bedford      | 219   | http://www.messier.seds.org/xtra/similar/smyth_c.html        |
 | Jack Bennett | 152   | http://www.messier.seds.org/xtra/similar/bennett.txt         |
 | best NGC     | 111   | http://www.messier.seds.org/xtra/similar/sac110bn.html       |
@@ -39,5 +41,17 @@ Amatuer Astronomy DSO List/Catalogue
 | clarkvision  | 611   | https://clarkvision.com/articles/visastro/appendix-e.html    |
 | Burnham      | 1960  | https://www.saguaroastro.org/wp-content/sac-docs/ObservingDownloads/ |
 
+
+
+data2：
+
+| ITEM       | Num  | Link                                                         |
+| ---------- | ---- | ------------------------------------------------------------ |
+| Candy      | 197  | http://old.observers.org/observing/eyecandy/EyeCandyList_2_23_04.xls |
+| Levy       | 421  | http://www.jarnac.org/levy.pdf                               |
+| Splendors  | 387  | https://www.cloudynights.com/topic/704002-atlas-of-deep-sky-splendors-skylist/ |
+| Favorite   | 400  | http://www.vicmenard.com/the_list.pdf                        |
+| DeepMap600 | 510  | https://www.astronomy-mall.com/Adventures.In.Deep.Space/catalogs.htm |
+| ASSA_TOP100 | 100  | http://assa.saao.ac.za/sections/deep-sky/assa-top-100/ |
 
 
